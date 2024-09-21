@@ -40,3 +40,12 @@ Hit Calculate and instantly see your investment's projected growth!
 
 View detailed results either as a graph or a table with options to switch between yearly or monthly breakdowns.
 # Screenshots 📸
+![Apple iPhone 11 Pro Max](https://github.com/user-attachments/assets/a0e3656d-73eb-4ef6-9dc7-73490a58249a)![Apple iPhone 11 Pro Max-2](https://github.com/user-attachments/assets/72b0e026-80ff-4b90-af5c-fe9d04732c51)![Apple iPhone 11 Pro Max-3](https://github.com/user-attachments/assets/eb04afde-b946-45a4-8e6d-1dbd25c44116)![Apple iPhone 11 Pro Max-4](https://github.com/user-attachments/assets/a3e1c8e9-31bc-4fd5-8a1f-040b9d77db91)![Apple iPhone 11 Pro Max-5](https://github.com/user-attachments/assets/ad65b63e-8e1d-4018-a8a0-daef65dc8c72)
+
+
+
+
+
+
+
+
